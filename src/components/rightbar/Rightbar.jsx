@@ -1,5 +1,9 @@
 import "./rightbar.css";
 
 export default function Rightbar() {
-  return <div></div>;
+  return (
+  <div className="rightbar">
+    rightbar
+  </div>
+  );
 }

@@ -1,5 +1,8 @@
-import "./feed.css ";
+import "./feed.css";
 
 export default function Feed() {
-  return <div>feed</div>;
+  return (
+  <div className="feed"> 
+    feed
+  </div>)
 }
